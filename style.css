@@ -1,0 +1,29 @@
+song_list {
+    display: block;
+    background-color: rgb(245, 240, 228);
+    font-family: Verdana;
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 24px;
+}
+
+heading {
+    font-weight: bold;
+    font-size:26px;
+}
+
+record {
+    display: block;
+    padding: 24px;
+}
+
+title {
+    display: block;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+artists {
+    display: block;
+    font-style: italic;
+}

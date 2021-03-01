@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<song_list>
+    <heading>Song List for Cover Band</heading>
+    <record>
+        <title>Love Story</title>
+        <artists>Taylor Swift</artists>
+        <genre>Pop</genre>
+        <year>2008</year>
+    </record>
+    <record>
+        <title>Heal the World</title>
+        <artists>Michael Jackson</artists>
+        <genre>Pop</genre>
+        <year>1991</year>
+    </record>
+    <record>
+        <title>Bad Romance</title>
+        <artists>Lady Gaga</artists>
+        <genre>Pop</genre>
+        <year>2008</year>
+    </record>
+    <record>
+        <title>Writing's on the Wall</title>
+        <artists>Sam Smith</artists>
+        <genre>Pop</genre>
+        <year>2015</year>
+    </record>
+    <record>
+        <title>The Phantom of the Opera</title>
+        <artists>Andrew Lloyd Webber</artists>
+        <genre>Musicals</genre>
+        <year>1987</year>
+    </record>
+    <record>
+        <title>I Dreamed a Dream</title>
+        <artists>Randy Graff</artists>
+        <genre>Musicals</genre>
+        <year>1987</year>
+    </record>
+    <record>
+        <title>Can You Feel the Love Tonight</title>
+        <artists>Elton John</artists>
+        <genre>Musicals</genre>
+        <year>1994</year>
+    </record>
+    <record>
+        <title>Into the Unknown</title>
+        <artists>Idina Menzel, Aurora</artists>
+        <genre>Musicals</genre>
+        <year>2019</year>
+    </record>
+    <record>
+        <title>Airplanes</title>
+        <artists>B.o.B, ft. Hayley Williams</artists>
+        <genre>Rap</genre>
+        <year>2010</year>
+    </record>
+    <record>
+        <title>Love the Way You Lie</title>
+        <artists>Eminimem, ft. Rhianna</artists>
+        <genre>Rap</genre>
+        <year>2010</year>
+    </record>
+</song_list>
